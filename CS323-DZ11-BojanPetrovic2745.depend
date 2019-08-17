@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1566032555 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ11-BojanPetrovic2745/main.cpp
+	<iostream>
+	"Zivotinja.h"
+	"DivljaZivotinja.h"
+
+1566030744 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ11-BojanPetrovic2745/src/Zivotinja.cpp
+	"Zivotinja.h"
+
+1566031350 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ11-BojanPetrovic2745/include/Zivotinja.h
+	<iostream>
+
+1566032139 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ11-BojanPetrovic2745/src/DivljaZivotinja.cpp
+	"DivljaZivotinja.h"
+
+1566032645 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ11-BojanPetrovic2745/include/DivljaZivotinja.h
+	"Zivotinja.h"
+
